@@ -1,3 +1,6 @@
+#Код не мой, в данном файле оригинал лежит тут: https://github.com/wb-08/BK/blob/master/maraplus.py
+
+
 import requests
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
